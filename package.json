@@ -1,0 +1,27 @@
+{
+  "name": "geonames-cities-json",
+  "version": "1.0.0",
+  "description": "JSON format of cities in the world (with a population > 500) from geonames.org.",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienChebance/geonames-cities-json.git"
+  },
+  "keywords": [
+    "geonames",
+    "cities",
+    "json"
+  ],
+  "author": "Julien Chebance",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulienChebance/geonames-cities-json/issues"
+  },
+  "homepage": "https://github.com/JulienChebance/geonames-cities-json#readme",
+  "dependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
